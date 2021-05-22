@@ -10,3 +10,7 @@ Gdy zawartosc repozytorium bedzie pobrana nalezy uruchomic program za pomoca ter
 make main
 ./main
 ```
+Aby usunac zainstalowany program nalezy uzyc komendy:
+```
+make clean
+```
