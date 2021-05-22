@@ -3,9 +3,9 @@ Aby pobrac zawartosc repozytorium uzytkownik powinien otworzyc terminal, wpisac 
 ```
 git clone https://github.com/MMarcula/Code2
 ``` 
-Stowrzy sie nowy folder o nazwie repozytorium, w ktorym beda znajdowac sie pobrane pliki.
+Stworzy sie nowy folder o nazwie repozytorium, w ktorym beda znajdowac sie pobrane pliki.
 
-Gdy zawartosc repozytorium bedzie pobrana nalezy uruchomic program za pomoca terminala a nastepnie uzyc komendy: 
+Gdy zawartosc repozytorium bedzie pobrana nalezy uruchomic program za pomoca terminala a nastepnie uzyc komend: 
 ```
 make main
 ./main
